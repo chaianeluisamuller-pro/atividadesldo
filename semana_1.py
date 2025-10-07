@@ -79,3 +79,5 @@ print("O valor correto dessa soma é",Soma_1,type(Soma_1))
 # Temos o push e pull
 # git clone,status,add, commit -m, push
 # Temos as linguagens interpretadas e compiladas
+
+print("Hello World")
