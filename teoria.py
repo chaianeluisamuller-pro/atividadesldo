@@ -37,3 +37,12 @@ print("Semana 2")
 # sep = separa os strings com virgula
 # end = muda o final da palavra
 # \n é enter
+# Laços de repetição repetem codigos até uma certa condição
+# Algebra booleana usada quando quer fazer mais de uma comparação and precisa que 2 sejam verdadeiros
+#O  precisa que somente 1 seja verdadeiro para fazer a tarefa
+# While usado quando algo verdadeiro e para quando for false
+# For usa o codigo com base em um array ou em um range
+# Indices começam sempre em zero
+# alunos [1]: sabe que o vetor está no array 1
+# append adiciona valores .remove remove .pop remove também
+# match case é usada quando algo é igual e case_.: é igual ao else
